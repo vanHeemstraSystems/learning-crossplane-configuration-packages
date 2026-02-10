@@ -1,2 +1,3 @@
-# learning-crossplane-configuration-packages
-Learning Crossplane Configuration Packages
+# Learning Crossplane Configuration Packages
+
+- [References](./REFERENCES)
